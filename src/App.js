@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <h1>Hello from V2 by 阪井</h1>
       </header>
     </div>
   );
